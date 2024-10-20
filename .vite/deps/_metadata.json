@@ -1,0 +1,38 @@
+{
+  "hash": "3e3f0300",
+  "browserHash": "708b8c2f",
+  "optimized": {
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "0e3f1361",
+      "needsInterop": false
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "fca0c3d6",
+      "needsInterop": false
+    },
+    "datatables.net-dt": {
+      "src": "../../node_modules/datatables.net-dt/js/dataTables.dataTables.mjs",
+      "file": "datatables__net-dt.js",
+      "fileHash": "0bde3d51",
+      "needsInterop": false
+    },
+    "alpinejs": {
+      "src": "../../node_modules/alpinejs/dist/module.esm.js",
+      "file": "alpinejs.js",
+      "fileHash": "853ea4c3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DGVN4OPO": {
+      "file": "chunk-DGVN4OPO.js"
+    },
+    "chunk-5WWUZCGV": {
+      "file": "chunk-5WWUZCGV.js"
+    }
+  }
+}
