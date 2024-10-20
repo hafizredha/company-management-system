@@ -13,6 +13,5 @@
 
     <p>Website: <a href="{{ $company->website }}" target="_blank">{{ $company->website }}</a></p>
 
-
     <a href="{{ route('companies.edit', $company->id) }}" class="btn btn-warning">Edit Company</a>
 @endsection
